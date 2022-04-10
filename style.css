@@ -2,6 +2,7 @@ body {
   font-family: 'Adler', sans-serif;
   background-image: url("assets/swamp.jpg");
   background-size: cover;
+  height: 100vh;
 
 }
 
